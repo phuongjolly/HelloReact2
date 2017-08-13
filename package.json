@@ -1,0 +1,17 @@
+{
+  "name": "HelloReact2",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "lite-server --baseDir ./public"
+  },
+  "dependencies": {
+    "@types/react": "^16.0.0",
+    "@types/react-dom": "^15.5.2",
+    "global": "^4.3.2",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "ts-loader": "^2.3.2",
+    "typescript": "^2.4.2",
+    "webpack": "^3.4.1"
+  }
+}
